@@ -1,3 +1,9 @@
 # C
 C language
-Programs written in C while taking CS50 at Harvard 2018
+Programs written in C 
+
+Course: CS50
+Department: Computer Science
+Instructor: Prof. David J. Malan
+Institution: Harvard University
+Date: March 30, 2018
